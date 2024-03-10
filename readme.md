@@ -16,8 +16,7 @@ Add this line to your `init.lua`:
 
 ## Example
 
-Suppose I want to run a Python script in a new Run Zellij pane, I can type:
-`:AutoZellSet`  
-Input `python main.py`
+Suppose I want to run a Python script in a new Run Zellij pane, I can type:  
+`:AutoZellSet` and then input `python main.py`.  
 Then, each time I want to run (map to a keymap for faster operations, or make an autocmd on save.):
 `:AutoZellRun`
